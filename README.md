@@ -38,7 +38,8 @@ Deploy directly on [Vercel](https://vercel.com) or [Netlify](https://netlify.com
 ---
 
 ## 📸 Screenshots
-_(Add images or GIFs of your UI if needed)_
+![ChatGPT Image Jul 3, 2025, 01_00_13 PM](https://github.com/user-attachments/assets/48d899b7-ee35-41ed-aa16-eed0e3ebd82f)
+
 
 ---
 
