@@ -25,13 +25,11 @@
 ---
 
 ## 📦 Installation
-```bash
-npm install
-npm run dev
-```
-
-> App runs on `http://localhost:3000`
-
+<p align="center">
+  <a href="http://localhost:3000">
+    <img src="https://img.shields.io/badge/Live_Local-Run_on_Port_3000-orange?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 ---
 
 ## ✅ To Deploy
