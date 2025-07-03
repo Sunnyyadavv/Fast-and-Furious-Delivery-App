@@ -1,8 +1,12 @@
-# 🚀 Fast & Furious Delivery App
+<p align="center">
+  <img src="https://img.shields.io/badge/next.js-13.4.0-blue?logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/tailwind-css-blue?logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/framer-motion-purple?logo=framer" />
+  <img src="https://img.shields.io/badge/status-active-brightgreen" />
+</p>
 
-A playful food delivery app built with **Next.js**, styled with **Tailwind CSS**, and animated using **Framer Motion**.
-
----
+<h2 align="center">🚴‍♂️ Fast & Furious Delivery App</h2>
+<p align="center">A fun, animated food delivery app built with Next.js and Tailwind CSS</p>
 
 ## 🍕 Features
 - Beautiful UI for food checkout
